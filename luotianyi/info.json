@@ -1,14 +1,23 @@
 {
     "name": "luotianyi",
     "factorio_version": "2.0",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "title": "迪迦服洛天依 [Tiga Tianyi]",
     "author": "plexpt",
     "contact": "1125094786",
     "homepage": "",
     "dependencies": [
-        "? minime",
-        "CharacterModHelper"
+        "~ minime",
+        "CharacterModHelper",
+        "? dnf-snow",
+        "? jinx",
+        "? miku-bikini-swimsuit",
+        "? minecraft",
+        "? nailong",
+        "? tianyi",
+        "? tiga",
+        "? wukong",
+        "? yasuo"
     ],
     "description": "A high-quality character appearance mod designed for players who crave the ultimate visual experience. Each character is meticulously crafted and optimized to deliver unparalleled clarity and realism, elevating your gaming experience to new heights."
 }

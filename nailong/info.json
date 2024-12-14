@@ -1,14 +1,23 @@
 {
     "name": "nailong",
     "factorio_version": "2.0",
-    "version": "1.3.4",
+    "version": "1.3.6",
     "title": "小奶龙皮肤 [Nailong]",
     "author": "plexpt",
     "contact": "1125094786",
     "homepage": "",
     "dependencies": [
-        "? minime",
-        "CharacterModHelper"
+        "~ minime",
+        "CharacterModHelper",
+        "? dnf-snow",
+        "? jinx",
+        "? luotianyi",
+        "? miku-bikini-swimsuit",
+        "? minecraft",
+        "? tianyi",
+        "? tiga",
+        "? wukong",
+        "? yasuo"
     ],
     "description": "小奶龙皮肤"
 }

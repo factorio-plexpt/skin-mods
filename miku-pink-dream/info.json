@@ -1,0 +1,26 @@
+{
+    "name": "miku-pink-dream",
+    "factorio_version": "2.0",
+    "version": "1.0.1",
+    "title": "Pink Dream Miku Skin",
+    "author": "plexpt",
+    "contact": "plexpt",
+    "homepage": "",
+    "dependencies": [
+        "~ minime",
+        "CharacterModHelper",
+        "? dnf-snow",
+        "? jinx",
+        "? luotianyi",
+        "? miku-bikini-swimsuit",
+        "? minecraft",
+        "? nailong",
+        "? pikachu",
+        "? tianyi",
+        "? tiga",
+        "? wukong",
+        "? yasuo",
+        "? zootopia-judy"
+    ],
+    "description": "A high-quality character Skin mod designed for players who crave the ultimate visual experience. Each character is meticulously crafted and optimized to deliver unparalleled clarity and realism, elevating your gaming experience to new heights."
+}

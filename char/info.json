@@ -4,11 +4,23 @@
     "version": "1.0.0",
     "title": "黑神话悟空 [Black Myth Wukong]",
     "author": "plexpt",
-    "contact": "1125094786",
+    "contact": "plexpt",
     "homepage": "",
     "dependencies": [
-        "? minime",
-        "CharacterModHelper"
+        "~ minime",
+        "CharacterModHelper",
+        "? dnf-snow",
+        "? jinx",
+        "? luotianyi",
+        "? miku-bikini-swimsuit",
+        "? minecraft",
+        "? nailong",
+        "? pikachu",
+        "? tianyi",
+        "? tiga",
+        "? wukong",
+        "? yasuo",
+        "? zootopia-judy"
     ],
-    "description": "A high-quality character appearance mod designed for players who crave the ultimate visual experience. Each character is meticulously crafted and optimized to deliver unparalleled clarity and realism, elevating your gaming experience to new heights."
+    "description": "A high-quality character Skin mod designed for players who crave the ultimate visual experience. Each character is meticulously crafted and optimized to deliver unparalleled clarity and realism, elevating your gaming experience to new heights."
 }
